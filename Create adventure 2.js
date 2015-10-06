@@ -1,7 +1,7 @@
 var blank = prompt("What is your name?")
 if (blank !== null) {
     alert("Hello " + blank + ". ready to play?");
-
+//What
     alert("You start at your friend Mollees house and Jose and Rogelio are there with you. You guys are having a hackathon and Jose keeps complaining that he's hungry.He suggests that you all go to McDonalds taking a short cut through the woods behind Mollee's house. Mollee stays behind because she fears the legend of sonclaw, An old computer programming teacher who haunts the woods and waits for coders to walk through late at night so he can use there knowledge for the ultimate hack. Jose doesnt believe in Sonclaw and Rogelio really wanted food so they went through the woods to McDonalds.");
 }
 
